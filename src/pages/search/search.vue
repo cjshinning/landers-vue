@@ -1,13 +1,13 @@
 <template>
   <div id="app">
-    Home1
+    Search
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'Home'
+  name: 'Search'
 }
 </script>
 
